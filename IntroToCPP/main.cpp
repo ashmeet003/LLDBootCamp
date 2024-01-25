@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;
+#include <iostream> //header file
+using namespace std; //dictionary containing definations for variables like cout and cin
 int main()
 {
     int age;
